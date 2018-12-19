@@ -29,6 +29,9 @@ This class is about information theory, so it covers topics like entropy, mutual
 A proof is a string that allows an efficient verifier to check the validity of an NP statement, e.g. that a 3-SAT formula is satisfiable. One can consider two different related notions of a proof. In a probabilistically checkable proof, the verifier is restricted to only reading a small number of bits from the proof, and in an interactive proof, the prover talks to the verifier to try to convince the verifier that the NP statement is true. Offered next semester.
 
 ### Besides these theory courses, there will also be two UGTCS-run reading groups with 1~2 units available.
+
 [Design of Approximation Algorithms](http://www.designofapproxalgs.com/)
+
 [Approximation Algorithms](https://docs.google.com/forms/d/e/1FAIpQLSfAw837jDL9cQ_sbkguTuOVVbGvcJkPEWLlxEHPRfWtyCgmlA/viewform)
+
 [A Theoretician's Toolkit](https://docs.google.com/forms/d/e/1FAIpQLSedGzUg69CBrm-5Uo9FEj1CHdWIYYlA0Gaam4RZk-EGOaJDhQ/viewform)
